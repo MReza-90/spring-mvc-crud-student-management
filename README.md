@@ -1,9 +1,3 @@
-﻿# spring-mvc-crud-student-management
-
-Here's an updated version of your `README.md` file based on the project structure, dependencies in your `pom.xml`, and the context provided.
-
----
-
 # Spring MVC CRUD Student Management App
 
 This project is a web-based application built using **Spring Boot**, **Spring MVC**, and **Thymeleaf** to perform CRUD (Create, Read, Update, Delete) operations on student records. The app connects to a relational database (such as MySQL) to manage a list of students.
